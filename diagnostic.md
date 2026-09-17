@@ -86,7 +86,7 @@ I do not start before payment. If you cancel before I send the intake form, I re
 
 ## Contact
 
-<form action="https://formspree.io/f/FORMSPREE_ID" method="POST">
+<form action="https://formspree.io/f/xdekoggp" method="POST">
   <p><label>Your email<br><input type="email" name="email" required style="width:100%;max-width:420px"></label></p>
   <p><label>Team size and your Claude plan<br><input type="text" name="team" style="width:100%;max-width:420px"></label></p>
   <p><label>What do you want to fix?<br><textarea name="message" rows="5" required style="width:100%;max-width:420px"></textarea></label></p>

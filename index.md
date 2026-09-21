@@ -102,3 +102,7 @@ A matching slash command runs the same rubric on the current `git diff` from ins
 </form>
 
 Fixed-price diagnostic (USD 300): [diagnostic.html](diagnostic.html)
+
+<p style="font-size:0.85em;color:#666">This site counts page views with GoatCounter. GoatCounter sets no cookies and collects no personal data.</p>
+
+<script data-goatcounter="https://chen4hao.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>

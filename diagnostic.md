@@ -94,3 +94,7 @@ I do not start before payment. If you cancel before I send the intake form, I re
 </form>
 
 My own setup, with examples: [index.html](index.html)
+
+<p style="font-size:0.85em;color:#666">This site counts page views with GoatCounter. GoatCounter sets no cookies and collects no personal data.</p>
+
+<script data-goatcounter="https://chen4hao.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
